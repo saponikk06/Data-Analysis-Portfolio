@@ -8,7 +8,7 @@
 
 | Проект | Стек | Ключевая ценность |
 | :--- | :--- | :--- |
-| **[EdTech A/B Testing](./edtech-ab-testing/)** | Python, SciPy, Stats | Доказательство эффективности геймификации через статистические критерии. |
+| **[EdTech A/B Testing](./edtech-ab-test/)** | Python, SciPy, Stats | Доказательство эффективности геймификации через статистические критерии. |
 | **[SQL E-commerce Analytics](./ecommerce-sql-analytics/)** | PostgreSQL, CTE | Анализ воронки продаж и расчет Retention Rate для магазина «Накарабине». |
 | **[API Performance Monitoring](./otium-api-performance/)** | Python, Pandas, Logs | Технический аудит стабильности REST API и расчет перцентилей Latency. |
 
@@ -43,5 +43,5 @@
 
 ## 📫 Контакты
 * **Telegram:** [@saponik](https://t.me/saponik)
-* **Resume:** [Посмотреть PDF](./Сапожникова%20Кристина.pdf)
-* **System Analysis Portfolio:** [Yonote](https://saponik.yonote.ru/share/a65eed1e-e22c-4bf7-b5de-ddbdf6dbe651)
+* **System Analysis Portfolio:**[github](https://github.com/saponikk06/Practicum-System-Analysis_projects')
+* **E-mail:** krss.az@yandex.ru / kristinkasapozhok@gmail.com
